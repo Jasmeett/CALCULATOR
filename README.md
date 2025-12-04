@@ -1,4 +1,4 @@
-# Advanced Calculator
+# Calculator
 
 A responsive, accessible advanced calculator built with **HTML**, **CSS**, and **JavaScript**.
 This project demonstrates a practical use of the CSS Grid layout for arranging buttons, event listeners in JavaScript, and a simple state-machine approach to handle arithmetic operations.
@@ -32,9 +32,6 @@ When an operator is chosen, the current value is stored in `previous` and the ne
 1. Open `index.html` in a browser.
 2. Use mouse or keyboard to type numbers and operations.
 3. Press `C` to clear, `⌫` for backspace, `%` for percent, and `=` or Enter to evaluate.
-
-## Repo description (for GitHub)
-A clean, responsive calculator built with vanilla HTML, CSS and JavaScript. Demonstrates CSS Grid, keyboard accessibility, and straightforward calculator state management.
 
 ## License
 MIT
